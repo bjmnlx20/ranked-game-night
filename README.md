@@ -4,6 +4,20 @@ New year's is better when you jostle for double scoop Ben & Jerry's. First itera
 
 Check it out: https://ranked-new-year.netlify.app/
 
+
+## Registering
+
+<br> <b>Sign up and choose the avatar you want. </b> <br><br>
+
+<img src="https://github.com/bjmnlx20/ranked-game-night/blob/master/register.png" width="800"> <br>
+
+
+## Track
+
+<br> <b>Add and keep track of points won. </b> <br><br>
+
+<img src="https://github.com/bjmnlx20/ranked-game-night/blob/master/track.png" width="800"> <br>
+
 ## Available Scripts
 
 In the project directory, you can run:
