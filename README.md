@@ -1,6 +1,6 @@
 # Ranked Leaderboard App
 
-New year's is better when you jostle for double scoop Ben & Jerry's. First iteration of a game night leaderboard app.
+New year's is better when you game on. First iteration of a game night leaderboard app.
 
 Check it out: https://ranked-new-year.netlify.app/
 
